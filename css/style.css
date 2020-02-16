@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+JP|Oxygen&display=swap");
+
+@import url("component/container.css");
+@import url("component/avatar.css");
+@import url("component/button.css");
+@import url("component/banner.css");
+@import url("component/card.css"); 
+
+
+
+body  {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 20px;
+	margin: 0px; 
+}
+
+h1, h2, h3 {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
